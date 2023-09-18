@@ -1,0 +1,18 @@
+{
+    "name": "bps/monika",
+    "description": "//",
+    "type": "composer-plugin",
+    "license": "//",
+    "autoload": {
+        "psr-4": {
+            "Bps\\Monika\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bps"
+        }
+    ],
+    "require": {"yiisoft/yii2": "2.0.*",
+    "bower-asset/jquery": "^3.4"}
+}

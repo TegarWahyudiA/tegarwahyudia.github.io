@@ -1,0 +1,10 @@
+1. Ganti penilai CKP
+	folder protected -> models -> Master Pegawai
+	di function getPenilai
+2. Administrator
+	username: admin
+	pass: password
+3. Jika kepala BPS/Kasie ganti, update data kepala BPS/Kasie lama:
+	- wilayah ke 3300
+	- unit kerja ke BPS Prov
+   agar penilai CKPnya berubah ke kepala BPS/Kasie yg baru
